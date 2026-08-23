@@ -69,6 +69,34 @@ export default defineConfig({
           { text: '粉盐', link: '/src/spelunkery/pink-salt.md' },
           { text: '软玉经验存储', link: '/src/spelunkery/nephrite-xp-storage.md' }
         ]
+      },
+      {
+        text: '暮色森林',
+        link: '/src/twilightforest/index.md',
+        items: [
+          { text: '进入暮色森林', link: '/src/twilightforest/portal.md' },
+          { text: '首领与进度', link: '/src/twilightforest/bosses.md' },
+          { text: '探索与地图', link: '/src/twilightforest/exploring.md' },
+          { text: '物产与美食', link: '/src/twilightforest/food.md' }
+        ]
+      },
+      {
+        text: '补充（Supplementaries）',
+        link: '/src/supplementaries/index.md',
+        items: [
+          { text: '入门：亚麻与绳索', link: '/src/supplementaries/gettingstarted.md' },
+          { text: '工具与机关', link: '/src/supplementaries/gadgets.md' },
+          { text: '装饰与建造', link: '/src/supplementaries/decoration.md' }
+        ]
+      },
+      {
+        text: '夸克',
+        link: '/src/quark/index.md',
+        items: [
+          { text: '建材大观', link: '/src/quark/buildingblocks.md' },
+          { text: '世界与生物', link: '/src/quark/worldmobs.md' },
+          { text: '实用改进', link: '/src/quark/utilitytweaks.md' }
+        ]
       }
     ],
 
