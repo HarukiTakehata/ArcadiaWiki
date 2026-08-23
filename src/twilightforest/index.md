@@ -1,10 +1,5 @@
 # 暮色森林（Twilight Forest）
 
-> [!TIP]
-> 你可以在这些地方找到暮色森林：
->
-> [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | [GitHub](https://github.com/TeamTwilight/twilightforest) | [MCMod 百科](https://www.mcmod.cn/class/61.html)
-
 ## 简介
 
 **暮色森林**是一个经典的大型探险维度模组，为 Minecraft 增添了一个被永恒黄昏笼罩的魔法森林世界。这里生长着参天巨树，栖息着神话生物，地下埋藏着巨魔洞穴，云层之上还漂浮着巨人的国度。
@@ -25,6 +20,8 @@
 
 ---
 
+> 📖 更多模组详情请参阅 [MCMod 百科·暮色森林](https://www.mcmod.cn/class/61.html)，模组本体可在 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) 与 [GitHub](https://github.com/TeamTwilight/twilightforest) 获取
+
 ## 整合包中的暮色森林
 
 theArcadia 内置了 **Twilight Forest 1.21.1-4.8.3345**，并附带两个以暮色食材为主题的美食附属：
@@ -33,5 +30,3 @@ theArcadia 内置了 **Twilight Forest 1.21.1-4.8.3345**，并附带两个以暮
 |:-----|:-----|
 | **Twilight Delight** | 以农夫乐事风格加工暮色食材：炽铁锅、苍穹木橱柜与各类暮色菜肴 |
 | **Kaleidoscope（万花筒·暮色篇）** | 用暮色特产酿造茶饮与果酒：娜迦茶、火焰茶、热泪茶、巨人烈酒等 |
-
-> 📖 更多模组详情请参阅 [MCMod 百科·暮色森林](https://www.mcmod.cn/class/61.html)
