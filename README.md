@@ -23,6 +23,7 @@
 | [暮色森林](src/twilightforest/) | Twilight Forest 模组：探险维度与首领进度 | 🟢 基础完成 |
 | [锦致装饰](src/supplementaries/) | Supplementaries 模组：实用工具与装饰大杂烩 | 🟢 基础完成 |
 | [Quark](src/quark/) | 夸克模组：原版+ 风格功能合集 | 🟢 基础完成 |
+| [农夫乐事](src/farmersdelight/) | Farmer's Delight 模组：农耕烹饪与美食家族 | 🟢 基础完成 |
 | [Open Parties and Claims](src/openpartiesandclaims/) | OPAC 模组：领地保护与朋友管理 | 🟢 基础完成 |
 | [Spelunkery](src/spelunkery/) | Spelunkery 模组：探险与矿产扩展 | 🟢 基础完成 |
 

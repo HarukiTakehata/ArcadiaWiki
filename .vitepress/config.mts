@@ -81,6 +81,10 @@ export default defineConfig({
       {
         text: '夸克',
         link: '/src/quark/index.md'
+      },
+      {
+        text: '农夫乐事',
+        link: '/src/farmersdelight/index.md'
       }
     ],
 
